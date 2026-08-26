@@ -304,7 +304,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque la plataforma lo requiere para poder crear el pull request
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
 
 ---
@@ -432,7 +432,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 
 ---
@@ -513,7 +513,7 @@ c) Porque `git reset --hard` modifica el historial local, generando conflictos p
 d) Porque GitHub bloquea automáticamente los push después de un `git reset --hard`
 
 ```
-RESPUESTA_P3=
+RESPUESTA_P3=c
 ```
 
 ---
