@@ -13,7 +13,7 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
-/* recibe como parametro 2 enteros y retorna su multiplicacion*/
+/*la funcion multiplicar recibe como parametro dos enteros y esto retornar como resultado la multiplicacion*/
 int multiplicar(int a, int b) {
     return a * b;
 }
